@@ -1,0 +1,2 @@
+# ComicCraft---AI-Comic-Story-Creator-using-Gemini-Models
+AI Comic Story Creator using Gemini Models is a Generative AI project that transforms user ideas into creative comic stories. Using Gemini, the system generates storylines, characters, dialogues, and scenes from simple prompts. It makes comic creation easy, interactive, and enjoyable while encouraging creativity and demonstrating practical applicat
